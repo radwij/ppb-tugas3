@@ -1,5 +1,7 @@
 # NoteKeeper - Flutter SQFlite Note-Taking App
 
+**I Putu Raditya Partha Wijaya / 5025221210** 
+
 **NoteKeeper** is a Flutter-based mobile application that allows users to manage personal notes with priority levels, using local storage via SQLite through the `sqflite` plugin. This app demonstrates full CRUD (Create, Read, Update, Delete) functionality with a simple and intuitive UI.
 
 ---
@@ -81,3 +83,11 @@ This file runs the application and sets the theme and home screen.
 void main() {
   runApp(MyApp());
 }
+```
+
+
+---
+
+### 5. Referensi
+
+https://github.com/smartherd/Flutter-Demos
